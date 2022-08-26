@@ -2,6 +2,11 @@
 
 Simple FullStack project
 
+## run
+```
+    nodemon
+```
+
 ## Required
 
 run thhis script on the console
